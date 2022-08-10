@@ -20,4 +20,4 @@ To use the script, just move the file "convert-to-webp.sh" to the folder and run
 
 ## Configs:
 
-You can change the config by changing the "PARAMS" inside the script. If you want to know what each parameter do and what are the options take a look the google developers cwebp documentation: https://developers.google.com/speed/webp/docs/cwebp
+You can change the config by changing the "PARAMS" inside the script. If you want to know what each parameter do and what are the options take a look at the google developers cwebp documentation: https://developers.google.com/speed/webp/docs/cwebp
